@@ -1,0 +1,167 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "brand": "ralph-lauren",
+            "brandTitle": "ralph-lauren",
+            "productCategory": "clothing",
+            "productName": "t-shirt",
+            "title": "ralph-lauren-t-shirt",
+            "sizes": {
+                "xs": 1,
+                "s": 0,
+                "m": 5,
+                "l": 0,
+                "xl": 1
+            },
+            "color": "blue",
+            "price": 450,
+            "discountOffer": true,
+            "discount": 50,
+            "image": [
+                "assets/images/products/ralph-lauren/t-shirt-one-1.jpg",
+                "assets/images/products/ralph-lauren/t-shirt-one-2.jpg"
+            ],
+            "description": "Klassik yaxalı qısaqol polo"
+        }
+        ,
+        {
+            "id": 2,
+            "brand": "Ralph Lauren",
+            "brandTitle": "ralph-lauren",
+            "productCategory": "clothing",
+            "productName": "t-shirt",
+            "title": "ralph-lauren-t-shirt",
+            "size": {
+                "xs": 1,
+                "s": 0,
+                "m": 5,
+                "l": 0,
+                "xl": 1
+            },
+            "color": "blue",
+            "price": 235,
+            "discountOffer": true,
+            "discount": 70,
+            "image": [
+                "assets/images/products/ralph-lauren/t-shirt-two-1.jpg",
+                "assets/images/products/ralph-lauren/t-shirt-two-2.jpg"
+            ],
+            "description": "Dairəvi yaxa ilə qısaqol T-shirt"
+        },
+        {
+            "id": 3,
+            "brand": "Versace",
+            "brandTitle": "versace",
+            "productCategory": "clothing",
+            "productName": "jacket",
+            "title": "versace-jacket",
+            "size": {
+                "xs": 1,
+                "s": 0,
+                "m": 5,
+                "l": 0,
+                "xl": 1
+            },
+            "color": "blue",
+            "price": 2925,
+            "discountOffer": false,
+            "discount": 0,
+            "image": [
+                "assets/images/products/versace/jacket-one-1.jpg",
+                "assets/images/products/versace/jacket-one-2.jpg",
+                "assets/images/products/versace/jacket-one-3.jpg",
+                "assets/images/products/versace/jacket-one-4.jpg",
+                "assets/images/products/versace/jacket-one-5.jpg"
+            ],
+            "description": "Loqo naxışlı uzunqol kardiqan"
+        },
+        {
+            "id": 4,
+            "brand": "Emporio Armani",
+            "brandTitle": "emporio-armani",
+            "productCategory": "bag",
+            "productName": "handbag",
+            "title": "emporio-armani-bag",
+            "size": {
+                "mini": 1,
+                "medium": 0,
+                "large": 5
+            },
+            "color": "red",
+            "price": 300,
+            "discountOffer": false,
+            "discount": 0,
+            "image": [
+                "assets/images/products/emporio-armani/bag-one-1.webp",
+                "assets/images/products/emporio-armani/bag-one-2.webp",
+                "assets/images/products/emporio-armani/bag-one-3.webp",
+                "assets/images/products/emporio-armani/bag-one-4.webp",
+                "assets/images/products/emporio-armani/bag-one-5.webp"
+            ],
+            "description": ""
+        },
+        {
+            "id": 5,
+            "brand": "Pinko",
+            "brandTitle": "pinko",
+            "productCategory": "bag",
+            "productName": "crossbody-bag",
+            "title": "emporio-armani-bag",
+            "size": {
+                "mini": 1,
+                "medium": 4,
+                "large": 2
+            },
+            "color": "red",
+            "price": 350,
+            "discountOffer": false,
+            "discount": 0,
+            "image": [
+                "assets/images/products/pinko/bag-one-1.jpeg",
+                "assets/images/products/pinko/bag-one-2.jpeg",
+                "assets/images/products/pinko/bag-one-3.jpeg",
+                "assets/images/products/pinko/bag-one-4.webp"
+            ],
+            "description": "Material - Dəri Uzunluq: 12,5 cm En: 21 cm Dərinlik: 5,5 cm Zəncirin uzunluğu: 114 cm"
+        },
+        {
+            "id": 6,
+            "brand": "Bally",
+            "brandTitle": "bally",
+            "productCategory": "bag",
+            "productName": "wallet",
+            "title": "bally-wallet",
+            "color": "black",
+            "price": 300,
+            "discountOffer": false,
+            "discount": 0,
+            "image": [
+                "assets/images/products/bally/wallet-one-1.jpeg",
+                "assets/images/products/bally/wallet-one-2.jpeg",
+                "assets/images/products/bally/wallet-one-3.jpeg",
+                "assets/images/products/bally/wallet-one-4.jpeg"
+            ],
+            "description": "Material - Dəri"
+        },
+        {
+            "id": 7,
+            "brand": "Lacoste",
+            "brandTitle": "lacoste",
+            "productCategory": "bag",
+            "productName": "backpack",
+            "title": "lacoste-bag",
+            "color": "black",
+            "price": 250,
+            "discountOffer": true,
+            "discount": 30,
+            "image": [
+                "assets/images/products/lacoste/bag-one-1.webp",
+                "assets/images/products/lacoste/bag-one-2.webp",
+                "assets/images/products/lacoste/bag-one-3.webp",
+                "assets/images/products/lacoste/bag-one-4.webp"
+            ],
+            "description": ""
+        }
+    ]
+}
